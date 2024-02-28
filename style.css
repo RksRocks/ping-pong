@@ -1,0 +1,29 @@
+#main{
+    height: 50%;
+    width: 50%;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+button{
+    width: 80px;
+}
+
+#button1{
+    background-color: blue;
+
+}
+
+#button2{
+    background-color: green;
+}
+
+#reset{
+    background-color: red;
+}
+
